@@ -38,6 +38,8 @@ with a live progress display, colored output and a final success/failure report.
 19. [Maintaining the library](#19-maintaining-the-library)
 20. [Changelog](#20-changelog)
 21. [Credits and license](#21-credits-and-license)
+22. [index key pointer(IPK)](https://gist.github.com/hunter-zen-RU/5d2a7836d4326167e167bf5eb7f612d4#file-readme-md)
+23. [index key pointer table](https://gist.github.com/hunter-zen-RU/5d2a7836d4326167e167bf5eb7f612d4#5-library-version-1-170-entries-append-only)
 
 ---
 
